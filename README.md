@@ -16,7 +16,7 @@ I also added more functions to make the experience easier compared to the previo
 
 
 #### App preview:
-<img src="" width="320" height="600"/>
+<img src="avalidades_preview.gif" width="320" height="600"/>
 
 
 
